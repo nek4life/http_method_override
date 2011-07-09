@@ -1,0 +1,10 @@
+.idea/
+.project/
+*.iml
+build/
+dist/
+*.egg-info/
+*.pyc
+*.pyo
+
+
